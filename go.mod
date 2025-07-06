@@ -6,7 +6,7 @@ toolchain go1.23.10
 
 require (
 	github.com/banzaicloud/k8s-objectmatcher v1.8.0
-	github.com/evanphx/json-patch/v5 v5.6.0
+	github.com/evanphx/json-patch/v5 v5.9.11
 	github.com/go-logr/logr v1.4.1
 	github.com/onsi/ginkgo/v2 v2.16.0
 	github.com/onsi/gomega v1.31.1
